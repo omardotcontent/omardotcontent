@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Omar Mohamed  
 
 🎬 **Founder @ [Meraki Studios](https://discord.gg/B92sqyGJbF)**  
-💻 **Video Editor | Java Developer | Designer**  
+💻 **Video Editor | Presentation & UI Designer**  
 
 ---
 
@@ -10,11 +10,10 @@
 Hi! I’m **Omar Mohamed**, born on **May 12, 2006**.  
 I’m a passionate **Video Editor** with over **6 years of experience** in **Adobe Premiere Pro**, and the **Founder of Meraki Studios** — a creative community focused on design, media, and innovation.  
 
-Beyond video editing, I explore the **intersection of creativity and technology**:  
-- 🎮 Developing **Minecraft plugins** (Spigot, Bukkit)  
-- 💻 Building **JavaFX desktop apps** (UI tools, animation managers, and utilities)  
-- 🎨 Designing in **Figma** and **Paint.NET**  
-- 🕹️ Background in **Unreal Engine game development**  
+Beyond video editing, I specialize in **visual design**, crafting clean and impactful layouts in:  
+- 🎨 **Figma** (UI/UX & branding)  
+- 📊 **PowerPoint** (modern & professional presentations)  
+- 🖌️ **Paint.NET** (graphics & photo editing)  
 
 ---
 
@@ -22,19 +21,16 @@ Beyond video editing, I explore the **intersection of creativity and technology*
 
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)  
 ![Paint.NET](https://img.shields.io/badge/Paint.NET-0082C9?style=for-the-badge&logo=paintdotnet&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
-![Minecraft Dev](https://img.shields.io/badge/Minecraft%20Dev-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)  
 
 ---
 
 ## 📂 Featured Projects  
 
-- 🎮 **Minecraft Plugins** – Enhancing gameplay with Spigot plugins.  
-- 💻 **JavaFX Apps** – Tools like an **Animation Manager** and **Muscle Reader** app.  
 - 🎬 **Video Projects** – Motion graphics & cinematic edits (Premiere Pro).  
+- 📊 **Presentation Design** – Clean, modern slides for brands & professionals.  
+- 🎨 **UI & Branding** – Figma-based layouts and creative assets.  
 
 ---
 
@@ -58,8 +54,8 @@ If you’d like to support my journey, you can donate here:
 
 - 🏗️ Founder of **Meraki Studios**  
 - 🎬 6+ years of **video editing expertise**  
-- 💻 Developer of **JavaFX apps** & **Minecraft plugins**  
-- 🎮 Background in **Unreal Engine game development**  
+- 📊 Designer of **modern presentations (PowerPoint)**  
+- 🎨 Skilled in **UI/UX & branding design (Figma)**  
 - 🌍 Building a **creative community** online  
 
 ---
