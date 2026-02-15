@@ -24,11 +24,11 @@ I’m constantly learning, iterating, and improving — whether it's visual, int
 
 <p align="center">
   <img src="https://github-readme-stats-blond-eight-93.vercel.app/api?username=omardotcontent&show_icons=true&count_private=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats-blond-eight-93.vercel.app/api/top-langs/?username=omardotcontent&layout=compact&count_private=true&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=omardotcontent&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omardotcontent&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-blond-eight-93.vercel.app/api/top-langs/?username=omardotcontent&layout=compact&count_private=true&theme=radical" height="180"/>
 </p>
 
 ## 🛠 Skills & Tools  
