@@ -2,6 +2,8 @@
 **Video Editor • Designer • Developer**  
 **Founder of Meraki Studios**
 
+<iframe src="https://github.com/sponsors/omardotcontent/button" title="Sponsor omardotcontent" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 ---
 
 ## 🌟 About Me  
