@@ -12,9 +12,6 @@ For over **6 years**, I’ve been working as a **Video Editor**, building cinema
 I’m also a **Developer** who enjoys building practical tools, clean user interfaces, and creative digital experiences. I work with:
 
 - 🧩 **Java** (JavaFX apps, Minecraft plugins)  
-- 🐍 **Python**  
-- ⚙️ **C++**  
-- 🌐 **HTML & CSS**
 
 I’m constantly learning, iterating, and improving — whether it's visual, interactive, or technical work.
 
@@ -41,9 +38,6 @@ I’m constantly learning, iterating, and improving — whether it's visual, int
 
 ### **Development**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
