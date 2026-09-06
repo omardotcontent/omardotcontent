@@ -2,7 +2,7 @@
 
 # OMAR MOHAMED
 
-### `Motion Graphics Designer` × `Java Developer`
+### `Motion Graphics Designer` × `Video Editor` x `Java Developer`
 **Founder — Meraki Studios**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-omardotcontent.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omardotcontent.github.io/)
