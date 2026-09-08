@@ -106,7 +106,7 @@ Minecraft plugin integrating Google Gemini AI as an in-game assistant — among 
 Designed the full Meraki Studios brand identity: animated intro, logo assets, website, and Discord community infrastructure used across YouTube and social channels.
 
 ### 🎬 WorldChatter v3.0 Trailer `2024`
-*Motion Design · Adobe Premiere Pro*
+*Motion Design · DaVinci Resolve*
 Directed and edited the official launch trailer blending cinematic motion graphics with in-game footage, driving community engagement at the v3.0 release.
 
 <br>
@@ -136,7 +136,7 @@ Modrinth · CurseForge · Discord Bot Development
 <td valign="top" width="50%">
 
 **Motion & Video**
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000000?style=flat-square&logo=adobepremierepro&logoColor=white)
+DaVinci Resolve
 Motion Graphics · SFX Design
 
 **Design & Visual**
