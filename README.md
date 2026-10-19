@@ -1,208 +1,108 @@
 <div align="center">
 
-# OMAR MOHAMED
+# OmarDotContent
 
-### `Motion Graphics Designer` × `Video Editor` x `Java Developer`
-**Founder — Meraki Studios**
+**Video editor & Minecraft animator**  
+Also known as **Omar Mohamed** · Cairo, Egypt  
+Founder of [Meraki Studios](https://www.merakistudios.dev/)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-omardotcontent.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omardotcontent.github.io/)
-
-<sub>Cairo, Egypt · omar@merakistudios.dev</sub>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omardotcontent)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/omardotcontent)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/8Ap2gGaKbw)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@omardotcontent)
-[![Spotify](https://img.shields.io/badge/Spotify-000000?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3ZsYOoNLRJw51wOf8l6j3z)
+[![Portfolio](https://img.shields.io/badge/WATCH_MY_WORK-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omardotcontent.github.io/)
+[![Email](https://img.shields.io/badge/LET'S_TALK-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar@merakistudios.dev)
+[![Discord](https://img.shields.io/badge/MY_COMMUNITY-111827?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/8Ap2gGaKbw)
 
 </div>
 
-<br>
+## About me
 
-## `>` SUMMARY
+I create **trailers, promos, and content for creators, gaming teams, and software companies**. My main focus is video editing and Minecraft animation, bringing footage, motion graphics, and sound together to tell the story.
 
-Creative developer and motion designer with **3+ years** of hands-on experience building production-grade Java software, shipping open-source tools with **223,000+ combined downloads**, and producing high-impact visual content for commercial brands.
+My work also reaches beyond video: I develop Java tools and Minecraft projects, make music, and work across design. That wider range helps me understand both what's being made and how to show it.
 
-Founder of **Meraki Studios** — a multi-disciplinary creative studio spanning software development, 3D art, motion design, and media production. Equally fluent in technical stacks and artistic tooling, with a track record of delivering polished, real-world products independently and within teams.
+I founded **Meraki Studios**, a creative studio spanning software development, motion design, 3D art, and media production.
 
-**→ [See it all in motion on the portfolio](https://omardotcontent.github.io/)**
+## Selected video work
 
-<br>
+| Project | Work |
+| --- | --- |
+| [Lune 13](https://www.tiktok.com/@saphiellecodes/video/7697244836692380944) | Game demo trailer for SaphielleCodes. Frame drawings by omar.saga_ on Instagram. |
+| [InteractiveStuff 0.5](https://www.youtube.com/watch?v=yPfkLl6xFms) | Minecraft mod promo featuring first-person item interactions. |
+| [WorldChatter 3.0](https://www.youtube.com/watch?v=O95rzhgVSZI) | Minecraft plugin promotional video. |
+| [Fazbear's Return Remastered](https://www.youtube.com/watch?v=CzTd6osGLFU) | Official trailer for my indie game. |
+| [AKCallers](https://omardotcontent.github.io/#client-akcallers) | Motion graphics and promotional edits — 13 videos playable in my portfolio. |
+| [ZumraFood](https://omardotcontent.github.io/#client-zumrafood) | Animated product promotions and social content. |
 
-## `>` EXPERIENCE
+**[Explore the full portfolio →](https://omardotcontent.github.io/)**
 
-<table>
-<tr>
-<td width="70%">
+## What I work on
 
-**Founder & Lead Developer** — *Meraki Studios*
+- **Trailers & promos:** videos for games, software, and upcoming releases.
+- **Minecraft animation:** animated scenes, cinematic promos, and stories.
+- **Creator content:** YouTube videos, short-form edits, and social content.
+- **Motion & sound:** titles, motion graphics, sound design, and audio mixing.
 
-Founded and direct a multi-disciplinary creative studio producing commercial and open-source software, motion content, and 3D art. Architected and shipped multiple Java-based plugins and mods with public-facing APIs, adopted across thousands of servers worldwide. Designed and implemented the studio's Discord commission system, internal team policy framework, and public-facing website. Oversee brand strategy, client onboarding, and commission workflows across game development and media verticals.
+My main video tool is **DaVinci Resolve**. I also work with Mine-Imator, Unreal Engine, Figma, Paint.NET, and music production tools.
 
-</td>
-<td valign="top" align="right">
+## Experience
 
-`2024 — Present`
-*Hybrid*
+**Founder & Lead Developer · Meraki Studios**  
+2024–Present
 
-</td>
-</tr>
-<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
-<tr>
-<td width="70%">
+Leading creative direction and development across software, motion design, 3D art, and media projects.
 
-**Motion Graphic Designer** — *AKCallers*
+**Motion Graphic Designer · AKCallers**  
+June 2024–November 2025 · Remote
 
-Produced motion graphics and animated brand assets for marketing campaigns across social media and digital platforms. Built reusable motion templates that reduced production time on repeat campaign deliverables. Collaborated with cross-functional creative teams to deliver polished video content consistently on deadline.
+Produced motion graphics and animated promotional assets for marketing campaigns and digital platforms, working with creative teams on video deliverables.
 
-</td>
-<td valign="top" align="right">
+**Motion Graphic Designer · ZumraFood**  
+June 2023–March 2024 · Cairo
 
-`Jun 2024 — Nov 2025`
-*Remote*
+Created animated visual content and promotional assets for social media and digital advertising.
 
-</td>
-</tr>
-<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
-<tr>
-<td width="70%">
+## Beyond the timeline
 
-**Motion Graphic Designer** — *ZumraFood*
+I also build open-source Minecraft projects and Java software:
 
-Designed animated visual content that strengthened the brand's digital identity and online presence. Produced promotional assets for social media and digital advertising, coordinating with the marketing team on campaign goals.
+| Project | Description |
+| --- | --- |
+| [InteractiveStuff](https://github.com/omardotcontent/InteractiveStuff) | A client-side Minecraft mod for immersive first-person item interactions. |
+| [WorldChatter](https://github.com/omardotcontent/WorldChatter) | A Minecraft chat management plugin with channels, moderation features, and a developer API. |
+| [WorldCaster](https://github.com/omardotcontent/WorldCaster) | A broadcast add-on for WorldChatter. |
+| GeminiCraft | A Minecraft plugin connecting an in-game assistant to the Google Gemini API. |
 
-</td>
-<td valign="top" align="right">
+**Development:** Java, JavaFX, Gradle, Maven, Git, OOP, design patterns, and Vyn scripting.  
+**Minecraft:** Fabric API, NeoForge, Paper/Spigot/Bukkit, BungeeCord, and Velocity.  
+**Other creative work:** music production, audio mixing, branding, 3D visuals, and presentations.
 
-`Jun 2023 — Mar 2024`
-*Cairo*
+## Education & certifications
 
-</td>
-</tr>
-</table>
+**B.S. in Software Engineering — in progress**  
+Sadat Academy for Management Sciences (SAMS), Cairo, Egypt
 
-<br>
+- ICPC Sadat Academy Community — Level 1 SAMS Contest, Certificate of Achievement · February 2026
+- Digital Egypt Cubs Initiative: Level Three, Data Science & AI — Udacity / MCIT · October 2024
+- Digital Egypt Cubs Initiative: Lite Two — Udacity / MCIT · October 2023
+- Beaver Egypt Informatics Challenge — Ministry of Communications · 2023
+- Microsoft Office Specialist — PowerPoint 2016 & 2019
+- Fundamentals of Digital Marketing — Google
+- Agile Project Management — HP LIFE
 
-## `>` PROJECTS
+**Languages:** Arabic — Native/Bilingual · English — B2 (Upper-Intermediate)
 
-### 🧩 InteractiveStuff `2025 — Present`
-*Java · Fabric API · Vyn Scripting*
-Client-side Minecraft Fabric mod delivering immersive first-person item interaction animations. **220,000+ downloads** on Modrinth — Meraki Studios' flagship open-source project.
-
-### 💬 WorldChatter `2023 — Present`
-*Java · Bukkit/Paper · BungeeCord · Velocity*
-Full-featured chat management plugin supporting 14 server platforms across 3 major versions. Ships a public `WorldChatterAPI` consumed by external developers, with anti-spam, anti-swear, and custom channel systems. **3,000+ downloads**.
-
-### 📡 WorldCaster `2024 — Present`
-*Java · Bukkit/Paper*
-Standalone broadcast add-on for WorldChatter, extending its messaging system with scheduled and global broadcast capabilities. **300+ downloads**.
-
-### 🤖 GeminiCraft `2025`
-*Java · Bukkit · Google Gemini API*
-Minecraft plugin integrating Google Gemini AI as an in-game assistant — among the first AI assistant implementations in the Paper/Spigot ecosystem. Consumes the Gemini REST API directly from a Java backend. **270+ downloads**.
-
-### 🎨 Meraki Studios Brand Suite `2024 — Present`
-*Motion Design · Figma · Branding*
-Designed the full Meraki Studios brand identity: animated intro, logo assets, website, and Discord community infrastructure used across YouTube and social channels.
-
-### 🎬 WorldChatter v3.0 Trailer `2024`
-*Motion Design · DaVinci Resolve*
-Directed and edited the official launch trailer blending cinematic motion graphics with in-game footage, driving community engagement at the v3.0 release.
-
-<br>
-
-## `>` SKILLS
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Development**
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-000000?style=flat-square&logo=java&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-OOP & Design Patterns · Vyn (custom scripting language)
-
-**APIs & Frameworks**
-Fabric API · NeoForge · Paper/Spigot/Bukkit · BungeeCord · Velocity
-
-**Publishing**
-Modrinth · CurseForge · Discord Bot Development
-
-</td>
-<td valign="top" width="50%">
-
-**Motion & Video**
-DaVinci Resolve
-Motion Graphics · SFX Design
-
-**Design & Visual**
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-000000?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
-![Paint.NET](https://img.shields.io/badge/Paint.NET-000000?style=flat-square&logo=paintdotnet&logoColor=white)
-Unreal Engine / 3D
-
-**Music & Audio**
-Music Production · Audio Mixing · SFX Design
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `>` GITHUB STATS
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats-blond-eight-93.vercel.app/api?username=omardotcontent&show_icons=true&count_private=true&theme=radical" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=omardotcontent&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-blond-eight-93.vercel.app/api?username=omardotcontent&show_icons=true&count_private=true&theme=github_dark" height="180" alt="OmarDotContent's GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=omardotcontent&theme=github-dark-blue" height="180" alt="OmarDotContent's GitHub contribution streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-blond-eight-93.vercel.app/api/top-langs/?username=omardotcontent&layout=compact&count_private=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-blond-eight-93.vercel.app/api/top-langs/?username=omardotcontent&layout=compact&count_private=true&theme=github_dark" height="180" alt="Languages used across OmarDotContent's GitHub projects" />
 </p>
 
-<br>
+## Let's make something move
 
-## `>` CERTIFICATIONS
+Have a video in mind? Tell me what you're making, where it's going, and when you need it.
 
-- **ICPC Sadat Academy Community** — Level 1 SAMS Contest, Certificate of Achievement `2026-02`
-- **Digital Egypt Cubs Initiative: Level Three, Data Science & AI** — Udacity / MCIT `2024-10`
-- **Digital Egypt Cubs Initiative: Lite Two** — Udacity / MCIT `2023-10`
-- **Beaver Egypt Informatics Challenge** — Ministry of Communications `2023`
-- **Microsoft Office Specialist**: PowerPoint 2016 & 2019
-- **Fundamentals of Digital Marketing** — Google
-- **Agile Project Management** — HP LIFE
+**[Portfolio](https://omardotcontent.github.io/)** · **[Email](mailto:omar@merakistudios.dev)** · **[My community](https://discord.com/invite/8Ap2gGaKbw)** · **[Meraki Studios community](https://www.merakistudios.dev/discord)**
 
-<br>
-
-## `>` EDUCATION
-
-**B.S. in Software Engineering** — *Sadat Academy for Management Sciences (SAMS)*, Cairo, Egypt
-`In Progress`
-Relevant coursework: Data Structures, Digital Circuits, Electronics, Mathematics, IT Communication
-
-<br>
-
-## `>` LANGUAGES
-
-`Arabic` — Native/Bilingual&nbsp;&nbsp;&nbsp;&nbsp;`English` — B2 (Upper-Intermediate)
-
-<br>
-
-<div align="center">
-
-### `>` CONNECT
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omardotcontent.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omardotcontent)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@omardotcontent)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/omardotsocial)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@omardotsocial)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/8Ap2gGaKbw)
-[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3ZsYOoNLRJw51wOf8l6j3z)
-
-</div>
+[YouTube](https://www.youtube.com/@omardotcontent) · [LinkedIn](https://linkedin.com/in/omardotcontent) · [Instagram](https://www.instagram.com/omardotrandom) · [TikTok](https://www.tiktok.com/@omardotsocial) · [X](https://x.com/omardotsocial) · [Spotify](https://open.spotify.com/artist/3ZsYOoNLRJw51wOf8l6j3z)
